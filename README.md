@@ -1,3 +1,7 @@
+
+
+![Screenshot 2025-06-15 at 1 55 27 AM](https://github.com/user-attachments/assets/27cc75f0-0cee-4ff7-a8a3-a87c63409c50)
+
 # Trade Flow Matrix
 
 โปรเจกต์นี้เป็นเครื่องมือสำหรับวิเคราะห์ Order Flow และแสดงผล Trade Flow Matrix ของคู่เหรียญคริปโต เช่น BTC/USDT โดยใช้ข้อมูลจาก Binance API และแสดงผลผ่าน Streamlit
